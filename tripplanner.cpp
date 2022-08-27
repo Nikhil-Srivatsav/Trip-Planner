@@ -1,5 +1,5 @@
 /*
-	So here i smy project in this i just tried an way toshow how travelling trips decide and make trips 
+	So here is my project in this i just tried an way toshow how travelling trips decide and make trips 
 	how they give packages suitable for someone depending on his choice
 	I have tried my best to explain each and every feature
 */
@@ -130,11 +130,11 @@ void destination()
 			 		cout<<"\nPine trees and sloping roofs covered in snow paint a pretty picture.\nAlso,huge skiing scapes give enough fodder to the adventure freaks to visit this,";
 					cout<<"\nTwo of the best places to enjoy snowfall in India.\n";
 					cout<<"Average Temperature: 3 Degrees Celsius\n";
-					cout<<"Key Attractions: Club Park – the oldest park of Pahalgam; the beautiful Aru Village; Lidder Valley-the camping site; Betaab Valley;";
+					cout<<"Key Attractions: Club Park â€“ the oldest park of Pahalgam; the beautiful Aru Village; Lidder Valley-the camping site; Betaab Valley;";
 					cout<<"\nand the beautiful landscapes of Apharwat Peak\n";
-					cout<<"Winter Activities And Adventure Sports: Ride in the cable car,Enjoy golf at the Golf Course; and ski to your heart’s content at Krishna Resort.\n";
-					cout<<"Nearest Airport: Srinagar Airport, which is 1 hour 40 mins’ drive away from gulmarg. And, over 2 hours’ drive from Pahalgam.\n";
-					cout<<"Nearest Railway Station: Jammu Railway Station which is 9 hours and 20 mins’ drive from Gulmarg and 7 hours 30 mins’ drive from Pahalgam.\n";
+					cout<<"Winter Activities And Adventure Sports: Ride in the cable car,Enjoy golf at the Golf Course; and ski to your heartâ€™s content at Krishna Resort.\n";
+					cout<<"Nearest Airport: Srinagar Airport, which is 1 hour 40 minsâ€™ drive away from gulmarg. And, over 2 hoursâ€™ drive from Pahalgam.\n";
+					cout<<"Nearest Railway Station: Jammu Railway Station which is 9 hours and 20 minsâ€™ drive from Gulmarg and 7 hours 30 minsâ€™ drive from Pahalgam.\n";
 					cout<<"Must Try Food or Cuisine: Kashmiri Cuisine\n";
 					cout<<"Best Time: October to February\n";
 					cout<<"\n\nPress a key to book rooms";
@@ -165,11 +165,11 @@ void destination()
 					cout<<"\nwhich encompasses slopes, valleys,meadows and more.\n";
 					cout<<"This definitely makes for it being popular amongst the top places for snowfall in India.\n";
 					cout<<"Average Temperature: 0 Degrees Celsius\n";
-					cout<<"Key Attractions: The tranquil Gangabal Lake; Yusmarg – a famous picnic spot; Baltal Valley; and the Kheer Bhawani Temple\n";
+					cout<<"Key Attractions: The tranquil Gangabal Lake; Yusmarg â€“ a famous picnic spot; Baltal Valley; and the Kheer Bhawani Temple\n";
 					cout<<"Winter Activities And Adventure Sports: Visit the Zojila Pass and Thajiwas Glacier; hike through the Satsaran Pass;";
 					cout<<"\nwalk through the royal garden of Chasmah-e-shahi\n";
-					cout<<"Nearest Airport: Srinagar International Airport, which is 2 hours 20 mins’ drive away\n";
-					cout<<"Nearest Railway Station: Srinagar Railway Station which is a 2 hours’ drive from Sonamarg\n";
+					cout<<"Nearest Airport: Srinagar International Airport, which is 2 hours 20 minsâ€™ drive away\n";
+					cout<<"Nearest Railway Station: Srinagar Railway Station which is a 2 hoursâ€™ drive from Sonamarg\n";
 					cout<<"Must Try Food or Cuisine: Syoon Olav\n";
 					cout<<"Best Time: February to May\n";
 					cout<<"\nPress a key to book rooms";
@@ -202,11 +202,11 @@ void destination()
 					cout<<"which encompasses slopes, valleys,meadows and more.";
 					cout<<"\nThis definitely makes for it being popular amongst the top places for snowfall in India.\n";
 					cout<<"Average Temperature: 0 Degrees Celsius\n";
-					cout<<"Key Attractions: The tranquil Gangabal Lake; Yusmarg – a famous picnic spot; Baltal Valley; and the Kheer Bhawani Temple\n";
+					cout<<"Key Attractions: The tranquil Gangabal Lake; Yusmarg â€“ a famous picnic spot; Baltal Valley; and the Kheer Bhawani Temple\n";
 					cout<<"Winter Activities And Adventure Sports: Visit the Zojila Pass and Thajiwas Glacier; hike through the Satsaran Pass";
 					cout<"\nwalk through the royal garden of Chasmah-e-shahi\n";
-					cout<<"Nearest Airport: Srinagar International Airport, which is 2 hours 20 mins’ drive away";
-					cout<<"Nearest Railway Station: Srinagar Railway Station which is a 2 hours’ drive from Sonamarg\n";
+					cout<<"Nearest Airport: Srinagar International Airport, which is 2 hours 20 minsâ€™ drive away";
+					cout<<"Nearest Railway Station: Srinagar Railway Station which is a 2 hoursâ€™ drive from Sonamarg\n";
 					cout<<"Must Try Food or Cuisine: Syoon Olav\n";
 					cout<<"Best Time: February to May\n";
 					cout<<"Press a key to book rooms";
@@ -266,7 +266,7 @@ void destination()
 					cout<<"\nThe Park Calangute is a breathtakingly beautiful luxury beach resorts in Goa.";
 					cout<<"\nIt is known for its posh decor and superior settings, besides captivating sceneries created by the beachside.\n";
 					cout<<"Be it their sky bar or the magnificent purple pool, The Pak has everything built for a memorable vacation.\n";
-					cout<<"What’s Special: A relaxing massage at the Aura Spa, range of cocktails at the Sky Bar and Peace Bar, and romantic cabanas next to the purple pool.\n";
+					cout<<"Whatâ€™s Special: A relaxing massage at the Aura Spa, range of cocktails at the Sky Bar and Peace Bar, and romantic cabanas next to the purple pool.\n";
 					cout<<"\nPress a key to book rooms";
 					getch();
 					cout<<endl;
